@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Pork_Bg",
+        "price": "65.00",
+        "img": "menu_1.png"
+    },
+    {
+        "name": "Chicken1",
+        "price": "35.00",
+        "img": "menu_2.png"
+    },
+    {
+        "name": "Chicken2",
+        "price": "145.00",
+        "img": "menu_3.png"
+    },
+    {
+        "name": "Steak",
+        "price": "249.00",
+        "img": "menu_4.png"
+    },
+    {
+        "name": "Coke",
+        "price": "30.00",
+        "img": "menu_5.png"
+    },
+    {
+        "name": "Nugget",
+        "price": "60.00",
+        "img": "menu_6.png"
+    },
+    {
+        "name": "Chicken_Pop",
+        "price": "55.00",
+        "img": "menu_7.png"
+    },
+    {
+        "name": "Mash_PTT",
+        "price": "45.00",
+        "img": "menu_8.png"
+    },
+    {
+        "name": "french_fries",
+        "price": "79.00",
+        "img": "menu_9.png"
+    },
+    {
+        "name": "Beef_Bg",
+        "price": "89.00",
+        "img": "menu_10.png"
+    },
+    {
+        "name": "Sprite",
+        "price": "30.00",
+        "img": "menu_11.png"
+    },
+    {
+        "name": "Fish_Bg",
+        "price": "65.00",
+        "img": "menu_12.png"
+    },
+    {
+        "name": "Salad",
+        "price": "120.00",
+        "img": "menu_13.png"
+    },
+    {
+        "name": "HotDog",
+        "price": "69.00",
+        "img": "menu_14.png"
+    },
+    {
+        "name": "Soft_Cream",
+        "price": "54.00",
+        "img": "menu_15.png"
+    }
+]
