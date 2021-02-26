@@ -1,6 +1,8 @@
 # Restaurant Order Management
 This repository consists of codes of "Object-oriented programming (OOP)" Project, Faculty of Information Technology, King Mongkut's Institute of Technology Ladkrabang (KMITL).
 ______
+#### Main Git Repo: https://github.com/max180643/Restaurant-Order-Management
+
 # Team Member
 |<img src="/README/profile1.jpg" width="150px" height="150px">|<img src="/README/profile2.jpg" width="150px" height="150px">|<img src="/README/profile3.jpg" width="150px" height="150px">|<img src="/README/profile4.jpg" width="150px" height="150px">|<img src="/README/profile5.jpg" width="150px" height="150px">|
 |:-----:|:-----:|:-----:|:-----:|:-----:|
